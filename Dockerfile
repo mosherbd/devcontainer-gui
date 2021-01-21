@@ -1,4 +1,4 @@
-FROM mosherbd/dev-base
+FROM mosherbd/devcontainer-base
 
 LABEL maintainer="mosherbd@gmail.com"
 LABEL LABEL version="1.0"
